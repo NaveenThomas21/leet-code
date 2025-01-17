@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/NaveenThomas21/leet-code/tree/master/0009-palindrome-number) |
 | [2383-add-two-integers](https://github.com/NaveenThomas21/leet-code/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/NaveenThomas21/leet-code/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
 | ------- |
