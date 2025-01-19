@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NaveenThomas21/leet-code/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/NaveenThomas21/leet-code/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/NaveenThomas21/leet-code/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/NaveenThomas21/leet-code/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/NaveenThomas21/leet-code/tree/master/2556-convert-the-temperature) |
@@ -12,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/NaveenThomas21/leet-code/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/NaveenThomas21/leet-code/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/NaveenThomas21/leet-code/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/NaveenThomas21/leet-code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
