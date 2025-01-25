@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/NaveenThomas21/leet-code/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/NaveenThomas21/leet-code/tree/master/0412-fizz-buzz) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NaveenThomas21/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NaveenThomas21/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NaveenThomas21/leet-code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
