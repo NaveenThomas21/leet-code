@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NaveenThomas21/leet-code/tree/master/0412-fizz-buzz) |
+| [2048-build-array-from-permutation](https://github.com/NaveenThomas21/leet-code/tree/master/2048-build-array-from-permutation) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaveenThomas21/leet-code/tree/master/0001-two-sum) |
+| [2048-build-array-from-permutation](https://github.com/NaveenThomas21/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NaveenThomas21/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Stack
 |  |
