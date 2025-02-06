@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaveenThomas21/leet-code/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/NaveenThomas21/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [2048-build-array-from-permutation](https://github.com/NaveenThomas21/leet-code/tree/master/2048-build-array-from-permutation) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NaveenThomas21/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Stack
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NaveenThomas21/leet-code/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/NaveenThomas21/leet-code/tree/master/0782-jewels-and-stones) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/NaveenThomas21/leet-code/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/NaveenThomas21/leet-code/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/NaveenThomas21/leet-code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
